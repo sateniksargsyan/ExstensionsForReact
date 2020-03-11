@@ -1,1 +1,4 @@
-# ExstensionsForReact
+# ExtensionsForReact
+
+## Prettier
+## Simple React Snippet
